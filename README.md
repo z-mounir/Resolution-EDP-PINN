@@ -41,7 +41,7 @@ os.environ["DDE_BACKEND"] = "pytorch"
 Then open `pinn_edp_complete.ipynb` in Jupyter or Google Colab and run all cells. Generated figures are saved to the `results/` directory.
 
 ## Authors
-Projet réalisé par Mounir Zarrouk et [Prénom Nom](https://github.com/son-pseudo).
+Projet réalisé par Mounir Zarrouk et [Yahya Bakhri](https://github.com/yahyabakhri-rgb).
 
 ## References
 
