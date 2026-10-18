@@ -40,6 +40,9 @@ os.environ["DDE_BACKEND"] = "pytorch"
 
 Then open `pinn_edp_complete.ipynb` in Jupyter or Google Colab and run all cells. Generated figures are saved to the `results/` directory.
 
+## Authors
+Projet réalisé par Mounir Zarrouk et [Prénom Nom](https://github.com/son-pseudo).
+
 ## References
 
 - Raissi, Perdikaris, Karniadakis (2019). *Physics-informed neural networks.* Journal of Computational Physics.
